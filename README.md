@@ -43,8 +43,8 @@ UNSPLASH_API_KEY=your_unsplash_api_key
 - This app uses the Unsplash API to fetch images and categories. Please make sure to follow Unsplash's terms of use and attribution requirements.
 - The image cropping functionality may vary on different devices and may not be supported on some devices.
 
-## Screenshots
-*Insert screenshots here*
+## Screenrecords
+![All pages](screen_record/video.mp4)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
